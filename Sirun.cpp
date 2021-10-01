@@ -31,8 +31,7 @@ int main()
     {
         cout << "1-Make poo-poo, 2-Eat something, 3-Make pee-pee," << endl;
         cout << "4-Drink something, 5-Drink beer, 6-Go to the market," << endl;
-        cout << "7-It's Nut Time!!!, 19-End game" << endl;
-        cout << endl;
+        cout << "7-It's Nut Time!!!, 19-End game\n" << endl;
         cout << "Your choise: ";
         cin >> choose;
         cout << endl;
